@@ -1,0 +1,7 @@
+.loginpage {
+    height: calc(100vh - 64px);
+    background-color: rgb(249, 250, 251);
+}
+.input{
+    background-color:rgb(249, 250, 251)
+}
